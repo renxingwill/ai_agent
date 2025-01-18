@@ -112,7 +112,7 @@ import json
 import os
 
 input_data = []
-file_path = './wow-agent/docs/content.json'
+file_path = './docs/content.json'
 
 try:
     with open(file_path, 'r', encoding='utf-8') as f:
