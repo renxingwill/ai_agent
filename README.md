@@ -31,3 +31,7 @@
 ## 阅卷智能体
 
 -agent_03_grading
+
+## 思维链接-思考者-智能体
+
+-agent_04_think
