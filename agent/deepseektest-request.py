@@ -1,6 +1,6 @@
 import json
 import requests
-BASE_URL = "http://49.0.258.97:3002/v1/chat/completions"
+BASE_URL = "http://49.32.258.97:3002/v1/chat/completions"
 
 payload = {    
     "messages": [
