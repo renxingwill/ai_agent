@@ -165,7 +165,7 @@ class NovelAssistant(BaseAgent):
             full_content.append(f"## {chapter} ##\n")
             full_content.append(content)
             full_content.append("\n---\n")
-            time.sleep(15)
+            time.sleep(14)
         
         return "\n".join(full_content)
     
